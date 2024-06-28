@@ -1,0 +1,14 @@
+img{
+    width: 200px;
+    height: 200px;
+    position: relative;
+    top: 2%;
+    left: 40%;   
+}
+button{
+    background-color: orange;
+    position: relative;
+    top: 2%;
+    left: 50%; 
+    width: 80px;
+}
